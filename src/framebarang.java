@@ -14,7 +14,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author MAHMUDI
+ * @author ARYO
  */
 public class framebarang extends javax.swing.JFrame {
 private Statement stat;
